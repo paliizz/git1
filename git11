@@ -1,8 +1,8 @@
-for user update v11.66
+for user update v11.74
 
 
 // SPDX-License-Identifier: GPL-3.0
-pragma solidity >=0.8.7;
+pragma solidity >=0.8.8;
 
 interface Token {
     function balanceOf(address _a) external view returns (uint);
